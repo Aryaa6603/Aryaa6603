@@ -23,7 +23,7 @@
   
   👯 I’m looking to collaborate on projects that deal with real-world problems. 
 
-
+<h1></h1>
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
@@ -47,6 +47,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 
 </div>
+
+<h1></h1>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaa6603&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
