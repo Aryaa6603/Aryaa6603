@@ -16,8 +16,11 @@
 
 
   :telescope: I work as an ML & AI Engineer, solving complex challenges and enhancing technology accessibility for diverse users, aiming for meaningful impact.
+  
   💬 I’m currently working on autonomous robots, specifically in the perception and vision field.
+  
   🌱 I’m currently learning Competitive coding and Reinforcement Learning
+  
   👯 I’m looking to collaborate on projects that deal with real-world problems. 
 
 
