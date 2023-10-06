@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/InG7YDwadoTQY/giphy.gif" width="600" height="300"/>
 </div>
 
-
+<h1></h1>
   :telescope: I work as an ML & AI Engineer, solving complex challenges and enhancing technology accessibility for diverse users, aiming for meaningful impact.
   
   💬 I’m currently working on autonomous robots, specifically in the perception and vision field.
