@@ -47,7 +47,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 
 </div>
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryaa6603&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Aryaa6603/Aryaa6603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
