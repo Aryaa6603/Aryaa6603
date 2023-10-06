@@ -8,7 +8,7 @@
   </a>
   
 <img src="https://komarev.com/ghpvc/?username=Aryaa6603&style=flat-square&color=blue" alt=""/>
-<h1>Hey There :)</h1>
+<h1>Hey There, I'm Arya :)</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/InG7YDwadoTQY/giphy.gif" width="600" height="300"/>
