@@ -55,8 +55,6 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C346%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-117-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20thousand%20lines%20of%20code-blue)
 <!--
 **Aryaa6603/Aryaa6603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
