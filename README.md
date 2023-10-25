@@ -23,7 +23,7 @@
   
   🌱 I’m currently learning Competitive coding and Reinforcement Learning
   
-  👯 I’m looking to collaborate on projects that deal with real-world problems. 
+  👯 I’m looking to collaborate on projects that deal with real world problems. 
 
 <h1></h1>
   <div>
