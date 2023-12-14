@@ -12,7 +12,7 @@
   
   💬 I’m currently working on autonomous robots, specifically in the perception and vision field.
   
-  🌱 I’m currently learning Competitive coding and Reinforcement Learning
+  🌱 I’m currently learning Reinforcement Learning
   
   👯 I’m looking to collaborate on projects that deal with real world problems. 
 
